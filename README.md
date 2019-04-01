@@ -15,7 +15,7 @@ You will need to:
 * Any text editor
 
 Installing
- *   Go to Github.com
+ *  
 
 * Search for Amiredin then navigate to the project github.
 
