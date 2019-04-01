@@ -23,9 +23,10 @@ export class GithubsearchComponent implements OnInit {
       this.profile = github;
       });
 
-    
+  
 
-  } 
+
+  }  
 
   ngOnInit() {
   }
