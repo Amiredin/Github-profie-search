@@ -15,9 +15,9 @@ You will need to:
 * Any text editor
 
 Installing
- *  Go to Github.com
+ *   Go to Github.com
 
-* Search for tonnymuchui then navigate to the project github.
+* Search for Amiredin then navigate to the project github.
 
 * Then clone the project or fork it.
 
