@@ -9,11 +9,13 @@ import { FormsModule} from '@angular/forms'
 import { AppRoutingModule } from './app-routing.module';
 import { AppComponent } from './app.component';
 import { GithubsearchComponent } from './githubsearch/githubsearch.component';
+import { RepositoryComponent } from './repository/repository.component';
 
 @NgModule({
   declarations: [
     AppComponent,
     GithubsearchComponent,
+    RepositoryComponent,
     
   ],
   imports: [
