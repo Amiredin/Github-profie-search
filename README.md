@@ -3,7 +3,7 @@
 Amir Edin
 
 ## Description
-This is an app that lets users search through Github for other users and also view their repositories. This is implemented using the Github API. The app is live on 
+This is an app that lets users search through Github for other users and also view their repositories. This is implemented using the Github API. The app is live on https://amiredin.github.io/Github-profie-search/
 
 
 ## Getting started
