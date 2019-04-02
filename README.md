@@ -36,4 +36,4 @@ Navigate into the root folder and run ng serve for a dev server. Navigate to htt
 ## Licence
 The MIT License (MIT)
 
-Copyright (c) 2018 Amiredin 
+Copyright (c) 2019 Amiredin 
