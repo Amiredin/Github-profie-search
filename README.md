@@ -1,3 +1,7 @@
+## Author
+
+Amir Edin
+
 ## Description
 This is an app that lets users search through Github for other users and also view their repositories. This is implemented using the Github API. The app is live on 
 
